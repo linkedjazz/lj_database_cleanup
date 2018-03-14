@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Darryl Duncan",
+    "ljSlug": "Darryl_Duncan",
+    "type": "interviewer"
+  },
+  {
+    "name": "David Ritz",
+    "ljSlug": "David_Ritz",
+    "type": "interviewer"
+  },
+  {
+    "name": "John Wilson",
+    "ljSlug": "John_Wilson",
+    "type": "interviewer"
+  },
+  {
+    "name": "Ken Kimery",
+    "ljSlug": "Ken_Kimery",
+    "type": "interviewer"
+  },
+  {
+    "name": "Leslie Gourse",
+    "ljSlug": "Leslie_Gourse",
+    "type": "interviewer"
+  },
+  {
+    "name": "Michael Woods",
+    "ljSlug": "Michael_Woods",
+    "type": "interviewer"
+  },
+  {
+    "name": "Jim Standifer",
+    "ljSlug": "Jim_Standifer",
+    "type": "interviewer"
+  },
+  {
+    "name": "Mike Woods",
+    "ljSlug": "Mike_Woods",
+    "type": "interviewer"
+  },
+  {
+    "name": "Steve Isoardi",
+    "ljSlug": "Steve_Isoardi",
+    "type": "interviewer"
+  },
+  {
+    "name": "Sally Plaxson",
+    "ljSlug": "Sally_Plaxson",
+    "type": "interviewer"
+  }
+]

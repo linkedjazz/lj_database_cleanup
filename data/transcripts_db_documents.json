@@ -1,0 +1,542 @@
+[
+  {
+    "id": 59,
+    "md5": "f3f0c653ce34f6ff5b6c11734cbe154a",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Charles Davis",
+    "intervieweeURI": "<http://dbpedia.org/resource/Charles_Davis_(saxophonist)>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 60,
+    "md5": "4d9729cd4bc00bc91544a55e56ac25af",
+    "sourceName": "University_of_Michigan",
+    "sourceURL": "http://www.inthefirstperson.com/firp/firp.detail.collections.aspx?collectioncode=OHC0002829",
+    "interviewee": "Sam Rivers",
+    "intervieweeURI": "<http://dbpedia.org/resource/Sam_Rivers>",
+    "interviewers": "Darryl Duncan",
+    "interviewees": ""
+  },
+  {
+    "id": 63,
+    "md5": "63aa7090bda4fb3b2f539ff274cb3fc2",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Buddy DeFranco",
+    "intervieweeURI": "<http://dbpedia.org/resource/Buddy_DeFranco>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 64,
+    "md5": "27edda13f5009bfcf57e93ca59d633b8",
+    "sourceName": "Smithsonian",
+    "sourceURL": "http://www.smithsonianjazz.org/index.php?option=com_content&view=article&id=22&Itemid=28",
+    "interviewee": "Jimmy Scott",
+    "intervieweeURI": "<http://dbpedia.org/resource/Jimmy_Scott>",
+    "interviewers": "Ken Kimery, David Ritz",
+    "interviewees": ""
+  },
+  {
+    "id": 66,
+    "md5": "76a2fbe20e4adb65452d811d4054a78b",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Doc Cheatham",
+    "intervieweeURI": "<http://dbpedia.org/resource/Doc_Cheatham>",
+    "interviewers": "Monk Rowe, Michael Woods",
+    "interviewees": ""
+  },
+  {
+    "id": 68,
+    "md5": "4a3e96223442874a0017a538e1c9ad4c",
+    "sourceName": "Smithsonian",
+    "sourceURL": "http://www.smithsonianjazz.org/index.php?option=com_content&view=article&id=22&Itemid=28",
+    "interviewee": "Buddy DeFranco",
+    "intervieweeURI": "<http://dbpedia.org/resource/Buddy_DeFranco>",
+    "interviewers": "Molly Murphy",
+    "interviewees": ""
+  },
+  {
+    "id": 70,
+    "md5": "5decb05d669456c981054422cf15f892",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Jane Jarvis",
+    "intervieweeURI": "<http://dbpedia.org/resource/Jane_Jarvis>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 71,
+    "md5": "b366d90cede3afd87a07919c4b16b70f",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Jimmy Lewis",
+    "intervieweeURI": "<http://dbpedia.org/resource/Jimmy_Lewis_(musician)>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 81,
+    "md5": "ca891814584ad6d84598cba2848aa629",
+    "sourceName": "University_of_Michigan",
+    "sourceURL": "http://www.inthefirstperson.com/firp/firp.detail.collections.aspx?collectioncode=OHC0002829",
+    "interviewee": "McCoy Tyner",
+    "intervieweeURI": "<http://dbpedia.org/resource/McCoy_Tyner>",
+    "interviewers": "Jim Standifer",
+    "interviewees": ""
+  },
+  {
+    "id": 85,
+    "md5": "2389a9bca552cc9592db22f023b201b8",
+    "sourceName": "University_of_Michigan",
+    "sourceURL": "http://www.inthefirstperson.com/firp/firp.detail.collections.aspx?collectioncode=OHC0002829",
+    "interviewee": "Billy Eckstine",
+    "intervieweeURI": "<http://dbpedia.org/resource/Billy_Eckstine>",
+    "interviewers": "Jim Standifer",
+    "interviewees": ""
+  },
+  {
+    "id": 86,
+    "md5": "96d03992bf75544ced50eb9ea89ab79a",
+    "sourceName": "University_of_Michigan",
+    "sourceURL": "http://www.inthefirstperson.com/firp/firp.detail.collections.aspx?collectioncode=OHC0002829",
+    "interviewee": "Count Basie",
+    "intervieweeURI": "<http://dbpedia.org/resource/Count_Basie>",
+    "interviewers": "Jim Standifer, Jim Standifer",
+    "interviewees": "Miss McCray, Freddie Green"
+  },
+  {
+    "id": 100,
+    "md5": "35d8a1fab5ef27b6c802229fe547cba2",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Lionel Hampton",
+    "intervieweeURI": "<http://dbpedia.org/resource/Lionel_Hampton>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 102,
+    "md5": "5eaa4ce105c9548966f9298fd61c7c29",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Herbie Hancock",
+    "intervieweeURI": "<http://dbpedia.org/resource/Herbie_Hancock>",
+    "interviewers": "Michael Woods, Michael Woods",
+    "interviewees": ""
+  },
+  {
+    "id": 105,
+    "md5": "55e89b6f5d9f5c11f09479e94271ff64",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Benny Waters",
+    "intervieweeURI": "<http://dbpedia.org/resource/Benny_Waters>",
+    "interviewers": "Michael Woods",
+    "interviewees": ""
+  },
+  {
+    "id": 106,
+    "md5": "6f0987d170ccffc26892c711d853d0e0",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Ron Carter",
+    "intervieweeURI": "<http://dbpedia.org/resource/Ron_Carter>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 107,
+    "md5": "157796a369b69be4b94c1f48dd9258e5",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Ed Shaughnessy",
+    "intervieweeURI": "<http://dbpedia.org/resource/Ed_Shaughnessy>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 108,
+    "md5": "3c4ad741ffc8b659899a64ae36450790",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Phil Woods",
+    "intervieweeURI": "<http://dbpedia.org/resource/Phil_Woods>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 111,
+    "md5": "d2d2f0855ed7ab603676e951a4fa571c",
+    "sourceName": "Smithsonian",
+    "sourceURL": "http://www.smithsonianjazz.org/index.php?option=com_content&view=article&id=22&Itemid=28",
+    "interviewee": "Roy Haynes",
+    "intervieweeURI": "<http://dbpedia.org/resource/Roy_Haynes>",
+    "interviewers": "Anthony Brown,  Ken Kimery",
+    "interviewees": ""
+  },
+  {
+    "id": 115,
+    "md5": "5b543c20ac5a159c9941f5ec8c805ba6",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Clark Terry",
+    "intervieweeURI": "<http://dbpedia.org/resource/Clark_Terry>",
+    "interviewers": "Joe Williams, Michael Woods",
+    "interviewees": ""
+  },
+  {
+    "id": 117,
+    "md5": "28c7e27b63a73c4426771be57b736187",
+    "sourceName": "Smithsonian",
+    "sourceURL": "http://www.smithsonianjazz.org/index.php?option=com_content&view=article&id=22&Itemid=28",
+    "interviewee": "Dave Brubeck",
+    "intervieweeURI": "<http://dbpedia.org/resource/Dave_Brubeck>",
+    "interviewers": "Ted Gioia, Ken Kimery",
+    "interviewees": "Russell Gloyd, Iola Brubeck"
+  },
+  {
+    "id": 118,
+    "md5": "35cbb3fada210569321e79e9e1629d06",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Gerald Wiggins",
+    "intervieweeURI": "<http://dbpedia.org/resource/Gerald_Wiggins>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 119,
+    "md5": "65442cf9b5d0c92de6785c23f3c846fd",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Milt Hinton",
+    "intervieweeURI": "<http://dbpedia.org/resource/Milt_Hinton>",
+    "interviewers": "Monk Rowe, Joe Williams, Norman Simmons, Mike Woods",
+    "interviewees": ""
+  },
+  {
+    "id": 129,
+    "md5": "cb88698648acdb78cf725a51c4e79d62",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Leslie Johnson",
+    "intervieweeURI": "<http://dbpedia.org/resource/Leslie_Johnson_(publisher)>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 130,
+    "md5": "f42a04ad4c648debc2495a31b230dff1",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Marian McPartland",
+    "intervieweeURI": "<http://dbpedia.org/resource/Marian_McPartland>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 141,
+    "md5": "8c628ecad4c1b1b38e50507cf7ac2718",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Benny Powell",
+    "intervieweeURI": "<http://dbpedia.org/resource/Benny_Powell>",
+    "interviewers": "Michael Woods",
+    "interviewees": ""
+  },
+  {
+    "id": 144,
+    "md5": "3a7c2e4e2bae11ae217758f27f6071be",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Joe Williams",
+    "intervieweeURI": "<http://dbpedia.org/resource/Joe_Williams_(jazz_singer)>",
+    "interviewers": "Leslie Gourse,  Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 145,
+    "md5": "2f9f9623616dc4406dd932a495a64f63",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Charles McPherson",
+    "intervieweeURI": "<http://dbpedia.org/resource/Charles_McPherson_(musician)>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 146,
+    "md5": "e98a18f63735f5bb23b40edc05c2f21f",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Red Holloway",
+    "intervieweeURI": "<http://dbpedia.org/resource/Red_Holloway>",
+    "interviewers": "Michael Woods, Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 147,
+    "md5": "af41d5c9d151a5ae4c1e1700569beada",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Buster Williams",
+    "intervieweeURI": "<http://dbpedia.org/resource/Buster_Williams>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 148,
+    "md5": "5807ba9e51982c5365e730dcbdef9fe9",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Jimmy Owens",
+    "intervieweeURI": "<http://dbpedia.org/resource/Jimmy_Owens_(musician)>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 149,
+    "md5": "ee75c6ce2884e0548aa4762579dc0312",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Bill Berry",
+    "intervieweeURI": "<http://dbpedia.org/resource/Bill_Berry_(trumpeter)>",
+    "interviewers": "",
+    "interviewees": "Buster Cooper"
+  },
+  {
+    "id": 150,
+    "md5": "3ebb78b55d635945e23885a8f304051a",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Harold Ousley",
+    "intervieweeURI": "<http://dbpedia.org/resource/Harold_Ousley>",
+    "interviewers": "",
+    "interviewees": ""
+  },
+  {
+    "id": 151,
+    "md5": "c8048d60d3a1072e883be1c9fed2795a",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Stanley Kay",
+    "intervieweeURI": "<http://linkedjazz.org/resource/Stanley_Kay>",
+    "interviewers": "",
+    "interviewees": ""
+  },
+  {
+    "id": 152,
+    "md5": "69cd57581c725e679d1620ca27d6ce80",
+    "sourceName": "University_of_Michigan",
+    "sourceURL": "http://www.inthefirstperson.com/firp/firp.detail.collections.aspx?collectioncode=OHC0002829",
+    "interviewee": "Roy Eldridge",
+    "intervieweeURI": "<http://dbpedia.org/resource/Roy_Eldridge>",
+    "interviewers": "Jim Standifer",
+    "interviewees": ""
+  },
+  {
+    "id": 153,
+    "md5": "5d69183cd020772d7e02cee2ac828a9b",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Slide Hampton",
+    "intervieweeURI": "<http://dbpedia.org/resource/Slide_Hampton>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 154,
+    "md5": "d556c835b61ef11ec309cab28db35443",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Oscar Peterson",
+    "intervieweeURI": "<http://dbpedia.org/resource/Oscar_Peterson>",
+    "interviewers": "Joe Williams",
+    "interviewees": ""
+  },
+  {
+    "id": 155,
+    "md5": "e36bcb0e5537387919dadfd00a7ba5f4",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Billy Taylor",
+    "intervieweeURI": "<http://dbpedia.org/resource/Billy_Taylor>",
+    "interviewers": "",
+    "interviewees": ""
+  },
+  {
+    "id": 156,
+    "md5": "8c3ff6578b7b25fa86a7c9d7a9053d1b",
+    "sourceName": "Smithsonian",
+    "sourceURL": "http://www.smithsonianjazz.org/index.php?option=com_content&view=article&id=22&Itemid=28",
+    "interviewee": "Louie Bellson",
+    "intervieweeURI": "<http://dbpedia.org/resource/Louie_Bellson>",
+    "interviewers": "Anthony Brown,  Ken Kimery, Anthony Brown",
+    "interviewees": ""
+  },
+  {
+    "id": 158,
+    "md5": "e1d09506cc5beb6f427f7781e0d1c959",
+    "sourceName": "Smithsonian",
+    "sourceURL": "http://www.smithsonianjazz.org/index.php?option=com_content&view=article&id=22&Itemid=28",
+    "interviewee": "Abbey Lincoln",
+    "intervieweeURI": "<http://dbpedia.org/resource/Abbey_Lincoln>",
+    "interviewers": "Sally Plaxson",
+    "interviewees": ""
+  },
+  {
+    "id": 161,
+    "md5": "7f2d6063335b48edf115ddc57d56bb92",
+    "sourceName": "Rutgers",
+    "sourceURL": "http://newarkwww.rutgers.edu/IJS/interviews.html",
+    "interviewee": "Mary Lou Williams",
+    "intervieweeURI": "<http://dbpedia.org/resource/Mary_Lou_Williams>",
+    "interviewers": "John Wilson, John Wilson",
+    "interviewees": ""
+  },
+  {
+    "id": 163,
+    "md5": "ee79cef9cdce4d68a4d3614f19ef7a7f",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Mona Hinton",
+    "intervieweeURI": "<http://linkedjazz.org/resource/Mona_Hinton>",
+    "interviewers": "Milt Fillius,  Mike Woods",
+    "interviewees": ""
+  },
+  {
+    "id": 165,
+    "md5": "d5adbd99984c9bf919d6d0b31f108d8a",
+    "sourceName": "Smithsonian",
+    "sourceURL": "http://www.smithsonianjazz.org/index.php?option=com_content&view=article&id=22&Itemid=28",
+    "interviewee": "Delfeayo Marsalis",
+    "intervieweeURI": "<http://dbpedia.org/resource/Delfeayo_Marsalis>",
+    "interviewers": "Anthony Brown,  Ken Kimery",
+    "interviewees": ""
+  },
+  {
+    "id": 166,
+    "md5": "eb031d08a1a7e4523782556da91b06a1",
+    "sourceName": "Smithsonian",
+    "sourceURL": "http://www.smithsonianjazz.org/index.php?option=com_content&view=article&id=22&Itemid=28",
+    "interviewee": "Danny Barker",
+    "intervieweeURI": "<http://dbpedia.org/resource/Danny_Barker>",
+    "interviewers": "",
+    "interviewees": ""
+  },
+  {
+    "id": 167,
+    "md5": "e3f78660c0230f3d125c1acd4be3c146",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Bob Haggart",
+    "intervieweeURI": "<http://dbpedia.org/resource/Bob_Haggart>",
+    "interviewers": "Michael Woods",
+    "interviewees": ""
+  },
+  {
+    "id": 168,
+    "md5": "7cee333836e90b914fcbd73459ca72fa",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Buddy Tate",
+    "intervieweeURI": "<http://dbpedia.org/resource/Buddy_Tate_(musician)>",
+    "interviewers": "Michael Woods",
+    "interviewees": ""
+  },
+  {
+    "id": 169,
+    "md5": "b97f1e20c276ee8fe670bab97f224afd",
+    "sourceName": "University_of_Michigan",
+    "sourceURL": "http://www.inthefirstperson.com/firp/firp.detail.collections.aspx?collectioncode=OHC0002829",
+    "interviewee": "Sam Rivers",
+    "intervieweeURI": "<http://dbpedia.org/resource/Sam_Rivers>",
+    "interviewers": "Darryl Duncan",
+    "interviewees": ""
+  },
+  {
+    "id": 171,
+    "md5": "011f7236b0dcab8666eac8701f537087",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Roswell Rudd",
+    "intervieweeURI": "<http://dbpedia.org/resource/Roswell_Rudd>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 172,
+    "md5": "68313aa339c81da99f563bec26d62b6c",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "David Murray",
+    "intervieweeURI": "<http://dbpedia.org/resource/David_Murray_(saxophonist)>",
+    "interviewers": "Monk Rowe",
+    "interviewees": ""
+  },
+  {
+    "id": 173,
+    "md5": "1f2804a3842d7b049f6f52cbbf3a7e3c",
+    "sourceName": "Smithsonian",
+    "sourceURL": "http://www.smithsonianjazz.org/index.php?option=com_content&view=article&id=22&Itemid=28",
+    "interviewee": "John Levy",
+    "intervieweeURI": "<http://dbpedia.org/resource/John_Levy_(musician)>",
+    "interviewers": "",
+    "interviewees": ""
+  },
+  {
+    "id": 174,
+    "md5": "8953648b4a619bcff882195a7961ffb0",
+    "sourceName": "Smithsonian",
+    "sourceURL": "http://www.smithsonianjazz.org/index.php?option=com_content&view=article&id=22&Itemid=28",
+    "interviewee": "Annie Ross",
+    "intervieweeURI": "<http://dbpedia.org/resource/Annie_Ross>",
+    "interviewers": "",
+    "interviewees": ""
+  },
+  {
+    "id": 175,
+    "md5": "c4c4cecae7d067daa546001e6c34dd66",
+    "sourceName": "Smithsonian",
+    "sourceURL": "http://www.smithsonianjazz.org/index.php?option=com_content&view=article&id=22&Itemid=28",
+    "interviewee": "Nancy Wilson",
+    "intervieweeURI": "<http://dbpedia.org/resource/Nancy_Wilson_(jazz_singer)>",
+    "interviewers": "",
+    "interviewees": ""
+  },
+  {
+    "id": 176,
+    "md5": "5c59cacdd2fae7dc50ace9c0f01dbab2",
+    "sourceName": "Hamilton_College",
+    "sourceURL": "http://www.hamilton.edu/jazzarchive/interviews",
+    "interviewee": "Vi Redd",
+    "intervieweeURI": "<http://dbpedia.org/resource/Vi_Redd>",
+    "interviewers": "",
+    "interviewees": ""
+  },
+  {
+    "id": 184,
+    "md5": "abab27e1780568e589da4cc27b711aa5",
+    "sourceName": "UCLA_Center_for_Oral_History_Research,_Library_Special_Collections,_Charles_E__Young_Research_Library,_UCLA",
+    "sourceURL": "http://oralhistory.library.ucla.edu/",
+    "interviewee": "Melba Liston",
+    "intervieweeURI": "<http://dbpedia.org/resource/Melba_Liston>",
+    "interviewers": "Steve Isoardi",
+    "interviewees": ""
+  },
+  {
+    "id": 188,
+    "md5": "543c36b950bfb0983d635da75e059b40",
+    "sourceName": "Smithsonian",
+    "sourceURL": "http://www.smithsonianjazz.org/index.php?option=com_content&view=article&id=22&Itemid=28",
+    "interviewee": "Toshiko Akiyoshi",
+    "intervieweeURI": "<http://dbpedia.org/resource/Toshiko_Akiyoshi>",
+    "interviewers": "Anthony Brown",
+    "interviewees": ""
+  }
+]
